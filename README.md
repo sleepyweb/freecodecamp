@@ -5,7 +5,7 @@ Thank you for checking out this repository. If you are new to my GitHub, be sure
 
 <h2>Courses: </h2>
 
-- **Responsive Web Design**
+- **<a href="https://github.com/sleepyweb/freecodecamp/tree/main/responsiveWebDesign">Responsive Web Design</a>**
 - **JavaScripts Algorithms and Data Structures**
 - **Front End Development Libraries**
 - **Data Visualization**
