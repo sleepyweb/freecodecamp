@@ -16,7 +16,7 @@ Different Color Notation:
 
 `rgba`, `hsla`, hexcodes
 
-![HEX Color Code](/notes_img/img_1.png)
+![HEX Color Code](/responsiveWebDesign/SetofColoredMarkers/notes_img/img_1.png)
 
 ---
 
